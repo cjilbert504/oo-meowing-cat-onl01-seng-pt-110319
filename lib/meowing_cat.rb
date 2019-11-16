@@ -2,6 +2,6 @@ class Cat
 
 
 end
-  
-  
+
+
 end
